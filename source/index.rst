@@ -6,6 +6,11 @@
 Molecular Dynamics tutorial
 ===========================
 
+=================    ========
+Status               |status|
+Last modification    |today|
+=================    ========
+
 Molecular dynamics tutrial presenting posibilities given by vanila python and modern python `MD` packages. Most of the modern tools for bio-engineering are gathered in `OMNIA_` repository maintained by Continuum Analytics.
 
 .. toctree::
@@ -36,5 +41,8 @@ Indices and tables
 * :ref:`search`
 
 
-.. include: links
+.. include:: links
 
+|status| .. image:: https://readthedocs.org/projects/md-how-to/badge/?version=latest
+         :target: http://md-how-to.readthedocs.io/en/latest/?badge=latest
+         :alt: Documentation Status
