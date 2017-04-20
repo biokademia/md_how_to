@@ -3,7 +3,7 @@
 Python MD Swiss Army Tool-Kit
 =============================
 
-Most of the modern tools for bio-engineering are gathered in `OMNIA_` repository maintained by Continuum Analytics.
+Most of the modern tools for bio-engineering are gathered in OMNIA_ repository maintained by Continuum Analytics.
 
 
 OpenMM & OpenMMtools
@@ -26,7 +26,7 @@ A modern, open library for the analysis of molecular dynamics trajectories.
 
 Read, write and analyze MD trajectories with only a few lines of Python code.
 
-MDTraj is a python library that allows users to manipulate molecular dynamics (MD) trajectories. Features include:
+MDTraj_ is a python library that allows users to manipulate molecular dynamics (MD) trajectories. Features include:
 
 Wide MD format support, including pdb, xtc, trr, dcd, binpos, netcdf, mdcrd, prmtop, and more.
 Extremely fast RMSD calculations (4x the speed of the original Theobald QCP).
@@ -43,9 +43,10 @@ easy     dupa
 MDAnalysis
 ----------
 
-.. image:: mdanalysis-logo.png
-   :align: right
-   :target: http://www.mdanalysis.org
+.. image:: _static/mdanalysis-logo.png
+    :scale: 25 %
+    :align: right
+    :target: http://www.mdanalysis.org
 
 http://www.mdanalysis.org
 
@@ -181,4 +182,4 @@ Linux only.
 
 
 .. ====================
-.. include:: links
+.. include:: links.rst

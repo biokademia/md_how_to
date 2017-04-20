@@ -1,8 +1,3 @@
-.. Molecular Dynamics tutorial documentation master file, created by
-   sphinx-quickstart on Thu Apr 20 14:06:31 2017.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Molecular Dynamics tutorial
 ===========================
 
@@ -11,10 +6,10 @@ Status               |status|
 Last modified        |today|
 =================    ========
 
-Molecular dynamics tutrial presenting posibilities given by vanila python and open source Python libraries. 
+Molecular dynamics tutorial presenting posibilities given by vanila python and open source Python libraries. 
 
 
-Tutorial covers in  detailes creating and analyzing trajectories produced by the most popular simulation packages. It also contains several good practices borrowed from software engineering like: version cotrol, workflow automation, data piplines, and scaling up / scaling out.
+Tutorial covers in  details creating and analyzing trajectories produced by the most popular simulation packages. It also contains several good practices borrowed from software engineering like: version cotrol, workflow automation, data piplines, and scaling up / scaling out computation.
 
 
 What you will learn
