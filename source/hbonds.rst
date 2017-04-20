@@ -1,7 +1,7 @@
 .. _hbonds:
 
-HBonds Analysis
-===============
+Hydrogen Bonds Analysis
+=======================
 
 
 http://mdtraj.org/1.8.0/examples/hbonds.html

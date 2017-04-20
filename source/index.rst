@@ -3,12 +3,28 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Molecular Dynamics tutorial's documentation!
-=======================================================
+Molecular Dynamics tutorial
+===========================
+
+Molecular dynamics tutrial presenting posibilities given by vanila python and modern python `MD` packages. Most of the modern tools for bio-engineering are gathered in `OMNIA_` repository maintained by Continuum Analytics.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
+
+   tools
+   formats
+   hbonds
+   beta
+   native_contacts
+   pca
+   ramachandran
+   rmsd
+   rmsf
+   solvent
+   visualizations
+   docking
+   openmm
 
 
 
@@ -18,3 +34,7 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+
+.. include: links
+
