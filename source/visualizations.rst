@@ -1,0 +1,4 @@
+.. _visualizations:
+
+Protein visualizations
+======================
