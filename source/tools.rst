@@ -3,6 +3,9 @@
 Python MD Swiss Army Tool-Kit
 =============================
 
+Most of the modern tools for bio-engineering are gathered in `OMNIA_` repository maintained by Continuum Analytics.
+
+
 OpenMM & OpenMMtools
 --------------------
 
@@ -39,6 +42,11 @@ easy     dupa
 
 MDAnalysis
 ----------
+
+.. image:: mdanalysis-logo.png
+   :align: right
+   :target: http://www.mdanalysis.org
+
 http://www.mdanalysis.org
 
 MDAnalysis is an object-oriented Python library to analyze trajectories from molecular dynamics (MD) simulations in many popular formats. It can write most of these formats, too, together with atom selections suitable for visualization or native analysis tools.
@@ -51,6 +59,7 @@ yank
 Linux only.
 
 http://getyank.org/0.15.2.dev0/#
+
 https://anaconda.org/omnia/yank-examples
 
 
